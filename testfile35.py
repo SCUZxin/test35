@@ -77,7 +77,3 @@ from math import ceil, floor
 print(ceil(2.5), floor(2.5))
 
 
-
-
-
-
