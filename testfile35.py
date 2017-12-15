@@ -60,7 +60,7 @@ print(even)
 
 import pandas as pd
 import numpy as np
-
+import math
 items = np.zeros(3)
 print(items)
 
@@ -75,3 +75,5 @@ print(df.apply(lambda x: x.max() - x.min(), axis=1))
 
 from math import ceil, floor
 print(ceil(2.5), floor(2.5))
+
+
