@@ -60,7 +60,7 @@ print(even)
 
 import pandas as pd
 import numpy as np
-import math
+
 items = np.zeros(3)
 print(items)
 
