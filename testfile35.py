@@ -75,5 +75,3 @@ print(df.apply(lambda x: x.max() - x.min(), axis=1))
 
 from math import ceil, floor
 print(ceil(2.5), floor(2.5))
-
-
